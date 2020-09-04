@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e36ce8d0-89c5-409b-b23a-250103a07fa1" name="Default Changelist" comment="" />
+    <list default="true" id="e36ce8d0-89c5-409b-b23a-250103a07fa1" name="Default Changelist" comment="Committing  right before I start section 4 of the tutorial." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,12 +80,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit right after starting the tutorial." />
     <MESSAGE value="Commit right after I changed the models.py file within the polls directory." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit right after I changed the models.py file within the polls directory." />
+    <MESSAGE value="Committing  right before I start section 4 of the tutorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing  right before I start section 4 of the tutorial." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="68" key="CommitChangelistDialog2" timestamp="1599254469299">
+    <state x="500" y="68" key="CommitChangelistDialog2" timestamp="1599255143538">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="500" y="68" key="CommitChangelistDialog2/0.0.1920.999/1920.0.1920.999/-1920.0.1920.999@0.0.1920.999" timestamp="1599254469299" />
+    <state x="500" y="68" key="CommitChangelistDialog2/0.0.1920.999/1920.0.1920.999/-1920.0.1920.999@0.0.1920.999" timestamp="1599255143538" />
+    <state x="552" y="232" key="Vcs.Push.Dialog.v2" timestamp="1599255208376">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="552" y="232" key="Vcs.Push.Dialog.v2/0.0.1920.999/1920.0.1920.999/-1920.0.1920.999@0.0.1920.999" timestamp="1599255208376" />
   </component>
 </project>
