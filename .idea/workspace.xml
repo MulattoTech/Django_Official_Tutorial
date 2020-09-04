@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e36ce8d0-89c5-409b-b23a-250103a07fa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
-    </list>
+    <list default="true" id="e36ce8d0-89c5-409b-b23a-250103a07fa1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,9 +83,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit right after I changed the models.py file within the polls directory." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="500" y="68" key="CommitChangelistDialog2" timestamp="1599246216043">
+    <state x="500" y="68" key="CommitChangelistDialog2" timestamp="1599254469299">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="500" y="68" key="CommitChangelistDialog2/0.0.1920.999/1920.0.1920.999/-1920.0.1920.999@0.0.1920.999" timestamp="1599246216043" />
+    <state x="500" y="68" key="CommitChangelistDialog2/0.0.1920.999/1920.0.1920.999/-1920.0.1920.999@0.0.1920.999" timestamp="1599254469299" />
   </component>
 </project>
